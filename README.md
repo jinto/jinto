@@ -6,7 +6,7 @@
 
 I am a ✨ _backend_ ✨ developer.
 
--  **Learning :** Full-Stack Development :zap: | Application Development :fire:
+-  **Learning :** Full-Stack Development | Application Development
 -  **Languages :** Python, C, Java, JavaScript
 -  **Blogging :** [jinto.pe.kr](http://jinto.pe.kr)
 -  **Organization :** [ODKMedia](http://odkmedia.net)
@@ -20,6 +20,13 @@ I am a ✨ _backend_ ✨ developer.
 -  **WordDB :** https://github.com/jinto/worddb
 -  **Watermark :** https://github.com/jinto/watermark_pdf
 -  **EveryWish :** https://github.com/everywish
+
+#### Translations
+
+-  **프로그래밍 그루비 :** https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3401563
+-  **장고 걸스 :** https://tutorial.djangogirls.org/ko/ (일부)
+-  **Rust by Examples(WIP) :** https://github.com/rust-lang-ko/rust-by-example-ko
+
 
 
 <!--
