@@ -6,7 +6,6 @@
 
 I am a ✨ _backend_ ✨ developer.
 
--  **Learning :** Full-Stack Development | Application Development
 -  **Languages :** Python, C, Java, JavaScript, Ruby
 -  **Blogging :** [jinto.pe.kr](http://jinto.pe.kr)
 -  **Organization :** [ODKMedia](http://odkmedia.net)
