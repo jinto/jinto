@@ -7,14 +7,13 @@
 I am a ✨ _backend_ ✨ developer.
 
 -  **Learning :** Full-Stack Development | Application Development
--  **Languages :** Python, C, Java, JavaScript
+-  **Languages :** Python, C, Java, JavaScript, Ruby
 -  **Blogging :** [jinto.pe.kr](http://jinto.pe.kr)
 -  **Organization :** [ODKMedia](http://odkmedia.net)
 
 
 #### Side Project
 
--  **Translating RBE :** https://github.com/rust-lang-ko/rust-by-example-ko
 -  **Qusmo/GoodWords :** https://goodwords.io/
 -  **Quirk :** https://github.com/Flaque/quirk/pull/67
 -  **WordDB :** https://github.com/jinto/worddb
