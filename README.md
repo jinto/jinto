@@ -14,6 +14,7 @@ I am a ✨ _backend_ ✨ developer.
 
 #### Side Project
 
+-  **Translating RBE :** https://github.com/rust-lang-ko/rust-by-example-ko
 -  **Qusmo/GoodWords :** https://goodwords.io/
 -  **Quirk :** https://github.com/Flaque/quirk/pull/67
 -  **WordDB :** https://github.com/jinto/worddb
