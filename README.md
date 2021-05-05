@@ -8,12 +8,13 @@ I am a ✨ _backend_ ✨ developer.
 
 -  **Languages :** Python, C, Java, JavaScript, Ruby
 -  **Blogging :** [jinto.pe.kr](http://jinto.pe.kr)
--  **Organization :** [ODKMedia](http://odkmedia.net)
+-  **Organization :** [Grepp](http://grepp.co)
 
 
 #### Side Project
 
 -  **Qusmo/GoodWords :** https://goodwords.io/
+-  **BeFluentTV :** https://befluent.tv/
 -  **Quirk :** https://github.com/Flaque/quirk/pull/67
 -  **WordDB :** https://github.com/jinto/worddb
 -  **Watermark :** https://github.com/jinto/watermark_pdf
