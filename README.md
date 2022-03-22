@@ -15,7 +15,6 @@ I am a ✨ _backend_ ✨ developer.
 
 -  **Qusmo/GoodWords :** https://goodwords.io/
 -  **BeFluentTV :** https://befluent.tv/
--  **Watermark :** https://github.com/jinto/watermark_pdf
 
 #### Contributions
 
