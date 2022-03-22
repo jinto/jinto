@@ -1,4 +1,4 @@
-### Jay Park
+### 박제권 (Jay Park)
 [![Twitter Badge](https://img.shields.io/badge/-Jay_Park-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jinto)](https://twitter.com/jinto)  [![Linkedin Badge](https://img.shields.io/badge/-Jay_Park-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaykwonpark//)](https://www.linkedin.com/in/jaykwonpark/) [![Gmail Badge](https://img.shields.io/badge/-jaypark@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaypark@gmail.com)](mailto:jaypark@gmail.com)
 
 
