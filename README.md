@@ -18,10 +18,10 @@ I am a ✨ _backend_ ✨ developer.
 
 #### Contributions
 
--  **프로그래밍 그루비 :** https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3401563
--  **장고 걸스 :** https://tutorial.djangogirls.org/ko/ (일부)
--  **Rust by Examples(WIP) :** https://github.com/rust-lang-ko/rust-by-example-ko
 -  **Mysql client :** https://github.com/PyMySQL/mysqlclient/pull/91
+-  **장고 걸스 :** https://tutorial.djangogirls.org/ko/ (일부)
+-  **프로그래밍 그루비 :** https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3401563
+-  **Rust by Examples(WIP) :** https://github.com/rust-lang-ko/rust-by-example-ko
 
 
 <!--
