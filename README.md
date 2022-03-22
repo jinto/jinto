@@ -15,24 +15,17 @@ I am a ✨ _backend_ ✨ developer.
 
 -  **Qusmo/GoodWords :** https://goodwords.io/
 -  **BeFluentTV :** https://befluent.tv/
--  **Quirk :** https://github.com/Flaque/quirk/pull/67
--  **WordDB :** https://github.com/jinto/worddb
 -  **Watermark :** https://github.com/jinto/watermark_pdf
--  **EveryWish :** https://github.com/everywish
 
-#### Translations
+#### Contributions
 
 -  **프로그래밍 그루비 :** https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3401563
 -  **장고 걸스 :** https://tutorial.djangogirls.org/ko/ (일부)
 -  **Rust by Examples(WIP) :** https://github.com/rust-lang-ko/rust-by-example-ko
-
+-  **Mysql client :** https://github.com/PyMySQL/mysqlclient/pull/91
 
 
 <!--
-**jinto/jinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
