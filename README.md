@@ -13,7 +13,7 @@ I am a ✨ _backend_ ✨ developer.
 
 #### Side Project
 
--  **Qusmo/GoodWords :** https://goodwords.io/
+-  **Qusmo/GoodWords :** https://qusmo.com
 -  **BeFluentTV :** https://befluent.tv/
 
 #### Contributions
