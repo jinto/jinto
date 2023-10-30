@@ -8,7 +8,7 @@ I am a ✨ _backend_ ✨ developer.
 
 -  **Languages :** Python, C, Java, JavaScript, Ruby
 -  **Blogging :** [jinto.pe.kr](http://jinto.pe.kr)
--  **Organization :** [Grepp](http://grepp.co)
+-  **Organization :** [Enuma](https://enuma.com/ko/)
 
 
 #### Side Project
